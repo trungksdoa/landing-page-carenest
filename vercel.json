@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "name": "carenest-react",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "installCommand": "yarn install",
+        "buildCommand": "yarn build"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/[^.]+",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/",
+      "dest": "/index.html"
+    }
+  ],
+  "installCommand": "yarn install",
+  "buildCommand": "yarn build"
+}
