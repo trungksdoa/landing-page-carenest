@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import Features from './components/Features';
 import Products from './components/Products';
 import Testimonials from './components/Testimonials';
+import Reviews from './components/Reviews';
 import CTASection from './components/CTASection';
 import Footer from './components/Footer';
 import './App.css'; // Nếu bạn có App-specific CSS, còn không thì index.css đủ
@@ -17,7 +18,8 @@ function App() {
         <Hero />
         <Features />
         <Products />
-        <Testimonials />
+        {/* <Testimonials /> */}
+        <Reviews />
         <CTASection />
       </main>
       <Footer />

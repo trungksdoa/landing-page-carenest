@@ -10,13 +10,13 @@ const productData = [
   {
     title: "Đồ Chơi Thông Minh",
     description: "Đồ chơi vận động, phát triển trí tuệ cho boss",
-    image: "https://images.unsplash.com/photo-1603364485461-671520a7e4b8?w=600&q=80",
+    image: "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=600&q=80",
     badge: "Mới"
   },
   {
     title: "Vệ Sinh & Spa",
     description: "Sữa tắm, dầu gội, lược chải và dụng cụ grooming",
-    image: "https://images.unsplash.com/photo-1616734755909-bb016ce64933?w=600&q=80",
+    image: "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=600&q=80",
     badge: "Sale"
   },
   {

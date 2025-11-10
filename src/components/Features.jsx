@@ -34,7 +34,7 @@ const featureData = [
   {
     title: "Cộng Đồng Pet Lover",
     description: "Kết nối với hàng nghìn người nuôi thú cưng, chia sẻ kinh nghiệm và khoảnh khắc đáng yêu.",
-    image: "https://images.unsplash.com/photo-154819997303cce0bbc87b?w=600&q=80",
+    image: "https://images.unsplash.com/photo-1628009368231-7bb7cfcb0def?w=600&q=80",
     alt: "Community"
   },
 ];
